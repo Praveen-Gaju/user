@@ -1,1 +1,3 @@
-@Library('my-shared-library') _
+@Library('roboshop') _
+
+ci()
